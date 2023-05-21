@@ -1,0 +1,34 @@
+{
+  "hotNews": [
+    {
+      "id": 1,
+      "heading": "Will your Rs 2000 note become invalid after September 30?",
+      "news": "Rs 2000 notes validity last date: No, your Rs 2000 note will not become invalid even after September 30. Though the RBI wants people to complete the deposit/exchange of Rs 2000 notes by September 30, the notes will continue to remain legal tender in case someone fails to complete the deposit or exchange by this date, according to the Government.",
+      "newsImage": "https://www.financialexpress.com/wp-content/uploads/2023/05/rs-2000-notes-3.jpg",
+      "time": "21 May 2023"
+    },
+    {
+      "id": 2,
+      "heading": "Senior Citizen Recurring Deposit interest rate jumps near 10% in new rate regime. 5 banks compared",
+      "news": "Recurring Deposit rate hike in 2023: Not just fixed deposits, the interest rates for recurring deposits in banks have also jumped to near 10% in the new repo rate regime steered by the Reserve Bank of India (RBI) since last year. While the repo rate has increased to 6.5% from 4.4% in May 2022, bank deposit rates including RDs have also gone up in one year.",
+      "newsImage": "https://www.financialexpress.com/wp-content/uploads/2023/05/fixed-deposit-news-1.jpg",
+      "time": "21 May 2023"
+    },
+    {
+      "id": 3,
+      "heading": "Appeal against CCI fines only after depositing 25%",
+      "news": "The government has made it mandatory to deposit 25% of the fine imposed by the Competition Commission of India (CCI), prior to filing an appeal against its order, before the National Company Law Appellate Tribunal.",
+      "newsImage": "https://www.financialexpress.com/wp-content/uploads/2023/05/cci1.jpg",
+      "time": "20 May 2023"
+    },
+    {
+      "id": 4,
+      "heading": "L&T Finance to expand SME finance business",
+      "news": "L&T Finance is planning to expand its small and medium-sized enterprises (SME) finance business to over 50 cities in the June quarter.",
+      "newsImage": "https://www.financialexpress.com/wp-content/uploads/2023/05/lat.jpg",
+      "time": "19 May 2023"
+    }
+  ],
+  "status": true,
+  "message": "hot news fetched successfully"
+}

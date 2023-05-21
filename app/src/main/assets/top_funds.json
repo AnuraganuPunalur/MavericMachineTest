@@ -1,0 +1,30 @@
+{
+  "topFunds": [
+    {
+      "id": 1,
+      "name": "Adani Enterprises Ltd.",
+      "gain": "3.49%",
+      "value": "1956.05"
+    },
+    {
+      "id": 2,
+      "name": "Adani Ports & Special Economic Zone Ltd.",
+      "gain": "3.48%",
+      "value": "688.1"
+    },
+    {
+      "id": 3,
+      "name": "Tata Motors Ltd.",
+      "gain": "3.25%",
+      "value": "524.95"
+    },
+    {
+      "id": 4,
+      "name": "Tech Mahindra Ltd.",
+      "gain": "2.24%",
+      "value": "1072.15"
+    }
+  ],
+  "status": true,
+  "message": "top funds fetched successfully"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Maverick Machine Test</string>
+    <string name="scan">Scan</string>
+    <string name="pay">Pay</string>
+    <string name="transfer">Transfer</string>
+    <string name="account">Account</string>
+    <string name="more">More</string>
+    <string name="fund_name">Fund Name</string>
+    <string name="gains_in_the_n_past_year">Gains in the \n past year</string>
+    <string name="recommend">Recommend</string>
+    <string name="hot_topic">Hot Topic</string>
+    <string name="buy">Buy</string>
+    <string name="no_internet">No internet, Try again later</string>
+</resources>
